@@ -168,6 +168,7 @@ extra_text_line_data = GeneratorCfg(
 
 # fmt: off
 configs = [
+   
     chn_data,
     enum_data,
     rand_data,
